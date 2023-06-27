@@ -1,0 +1,5 @@
+export const appName = 'Grossary Items Tracking'
+//export const primaryColor = '#883A80'
+//export const secondaryColor = '#64646E'
+export const primaryColor = '#4B1446'
+export const secondaryColor = '#FEFBFF'
